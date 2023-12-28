@@ -162,7 +162,7 @@ li > .link:focus {
   width: calc((100% - 48px) / 3);
 }
 
-.features > .container {
+.features-icon-container {
   display: flex;
   align-items: center;
   justify-content: center;
