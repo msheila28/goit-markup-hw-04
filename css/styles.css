@@ -292,11 +292,16 @@ li > .link:focus {
 
 .customer-link:hover {
   color: var(--ocean);
+  border-color: var(--ocean);
 }
 
 .customer-link:focus {
   border-color: var(--ocean);
   color: var(--ocean);
+}
+
+.customer-icon {
+  fill: currentColor;
 }
 
 /* Index - Footer */
