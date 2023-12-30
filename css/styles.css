@@ -260,6 +260,44 @@ li > .link:focus {
   fill: var(--cloud);
 }
 
+/* Fifth Section */
+.customer {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.customer-header {
+  font-size: 36px;
+  line-height: 1.11;
+  color: var(--navyblue);
+  margin-bottom: 72px;
+}
+
+.customer-list-item {
+  width: calc((100% - 120px) / 6);
+  height: 88px;
+}
+
+.customer-link {
+  width: 100%;
+  height: 100%;
+  border: (1px solid #8e8f99);
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #8e8f99;
+}
+
+.customer-link:hover {
+  color: var(--ocean);
+}
+
+.customer-link:focus {
+  border-color: var(--ocean);
+  color: var(--ocean);
+}
+
 /* Index - Footer */
 .footer {
   background-color: var(--navyblue);
