@@ -336,7 +336,6 @@ li > .link:focus {
 }
 
 .wrapper {
-  display: flex;
   margin-right: 120px;
 }
 
