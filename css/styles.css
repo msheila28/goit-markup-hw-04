@@ -336,6 +336,7 @@ li > .link:focus {
 }
 
 .wrapper {
+  display: flex;
   margin-right: 120px;
 }
 
@@ -351,6 +352,7 @@ li > .link:focus {
 .footer-socmed {
   display: flex;
   gap: 16px;
+}
 
 .footer-socmed-item {
   width: 40px;
