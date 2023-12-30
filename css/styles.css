@@ -350,7 +350,6 @@ li > .link:focus {
 
 .footer-socmed {
   display: flex;
-  gap: 16px;
 }
 
 .footer-socmed-item {
